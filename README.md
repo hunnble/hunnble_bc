@@ -17,7 +17,7 @@ Always sleepy.
 
 ### 🚧Current Projects
 
-- [A npm package to etract dominant colors from image](https://github.com/hunnble/dominantcolors.js)
+- [A npm package to extract dominant colours from image](https://github.com/hunnble/dominantcolors.js)
 - [A svelte component library](https://github.com/hunnble/bulte)
 
 <!--
